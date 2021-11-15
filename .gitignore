@@ -3,3 +3,12 @@ node_modules
 dist
 dist-ssr
 *.local
+
+# Temps
+tmp
+
+# Logs
+*.log
+
+# SQLite
+*.sqlite3
